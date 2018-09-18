@@ -3,42 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="/home/ashu/.android/build-cache/8bff32035e5e5ebf6b81a357e2881cc257534f51/output/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_84a57d679008d39a5b9f99b8e70197e8b8544072.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ashu/.android/build-cache/797a2772781c411ee3b50478876c1e03044a44ea/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_35b310266fefbca4957b36c468a94f294ab5473c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ashu/.android/build-cache/e6518b94e3ce1ae1fbbd1bcf6b1de22e0bf67b6c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_f5fe2300e3bdff1ec08a3cb7e60c594bda979f39.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ashu/.android/build-cache/7ef9c0ef01f5570f9a37d3835980b5fc864516b9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_29da7f5d681bbbbc821240ef5f4e311f1e0d1a9d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/ashu/.android/build-cache/507607c8af437d824eb77c4627d36397453d97d7/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -48,57 +12,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/ashu/.android/build-cache/8bff32035e5e5ebf6b81a357e2881cc257534f51/output/jars/classes.jar"
+        jar="/home/ashu/.android/build-cache/741bb88052e00584f9282bbeccb63c29b643cd93/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_8b01020140d0f728f3f5c50a608318a95f102f90.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ashu/.android/build-cache/ce1dd395a934176203406c229410517dfa5aa545/output/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_09cf88ec74fdda9fc09fbf18aac9037e2aca81c0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ashu/.android/build-cache/d1384a9e773c892f35a7db882ed4d3b450d3b3fe/output/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_2faded4a98c9bdd82f9e2ac39e2d8ae3ee84d42f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ashu/.android/build-cache/4652ff0bd860110c209ac1d2a1ced91318f5f492/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_e0439bf3068f7b4230ec3a3cd1d855019313e70b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ashu/.android/build-cache/4f4883e29b616d6103e78f815c3edcb1a0567c02/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_78578860782d5b9908c42db76931dfb5bf7e5ed6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ashu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_26f97a3893ed29f24f2a1150491773d0094d97ea.jar" />
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_b1751af85ebab4ca407e63b8dab1ad474062972d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,12 +30,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/ashu/.android/build-cache/588bed31d29e1476e55d566a33302a7633bda3f6/output/jars/classes.jar"
+        jar="/home/ashu/.android/build-cache/0a51f16858b6d14dfe0673fd744065b6d9d9e834/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_05edb1c8d5008625b18aa648a23e7a4842f2189f.jar" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_804c1ab2e2fc829fc2e918cb3d612744346a16c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ashu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_f672eea01e50e6cca763a30a5015e3626a6c1fb3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,30 +57,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/ashu/.android/build-cache/54a75fe5a4c06991d5b3d5ca273c9482a5b09e22/output/jars/classes.jar"
+        jar="/home/ashu/.android/build-cache/ce65ce4af2ec211932611a662336f41b38cfb63f/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_707f0eac3944be4ecceb87e6a89aa04610cd5099.jar" />
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_fba19b1af467a75743cebbcfe687c08a807e817b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/ashu/.android/build-cache/54e97fa41dcb87e2229748d705a0b65f816dd100/output/jars/classes.jar"
+        jar="/home/ashu/.android/build-cache/f56f02abacb8d60c479cadc9512ad49e88dde566/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_d47fcaf3a43a203ada2659f4784d972807acb6fa.jar" />
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_59381651295e2a57bc2061077570be82d863f57e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/ashu/.android/build-cache/d1384a9e773c892f35a7db882ed4d3b450d3b3fe/output/jars/classes.jar"
+        jar="/home/ashu/.android/build-cache/8dcf3d9305e991e25dd9de1cca1ad7e8d101ce34/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_70e100d8a3bf4abad5abfee5e3e9f6f22a3ba1d3.jar" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_4374f226e58049d76f9ff368309a71f545cf0fa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ashu/.android/build-cache/ce65ce4af2ec211932611a662336f41b38cfb63f/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_114a6a170175a5012876b332c52e8375377c72cc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -165,30 +102,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/ashu/.android/build-cache/ce1dd395a934176203406c229410517dfa5aa545/output/jars/classes.jar"
+        jar="/home/ashu/.android/build-cache/26a3cc40b8a5d0c0529cec35d317978595ff46b6/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_ae96ce3c32e5da2c6530396c1e540201090cfa05.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ashu/.android/build-cache/54e97fa41dcb87e2229748d705a0b65f816dd100/output/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_46126ce7ff3618f3e4d8e392ff33b7f403e2d95f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/ashu/.android/build-cache/4f4883e29b616d6103e78f815c3edcb1a0567c02/output/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4897621f270e29df2328c3fe4ead1fff69167ac1.jar" />
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/pre-dexed/debug/classes_3916b62d57366eccd1674a1efbdd2c6657c31f39.jar" />
     </item>
 
 </items>

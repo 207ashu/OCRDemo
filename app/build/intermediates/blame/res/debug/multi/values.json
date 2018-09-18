@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/ashu/StudioProjects/OCRDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/home/ashu/AndroidStudioProjects/OCRDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -3108,7 +3108,7 @@
                     "endOffset": 35827
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/dimens.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -3127,7 +3127,7 @@
                     "endOffset": 35883
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/dimens.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -4666,7 +4666,7 @@
                     "endOffset": 41133
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -5103,7 +5103,7 @@
                     "endOffset": 44216
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -5122,7 +5122,7 @@
                     "endOffset": 44373
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -5141,7 +5141,7 @@
                     "endOffset": 44438
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -5160,7 +5160,7 @@
                     "endOffset": 44495
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -5179,7 +5179,7 @@
                     "endOffset": 44569
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -5198,7 +5198,7 @@
                     "endOffset": 44632
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -5217,7 +5217,7 @@
                     "endOffset": 44666
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -5236,7 +5236,7 @@
                     "endOffset": 44767
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -5255,7 +5255,7 @@
                     "endOffset": 44829
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -5293,7 +5293,7 @@
                     "endOffset": 44968
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -5312,7 +5312,7 @@
                     "endOffset": 45016
                 },
                 "from": {
-                    "file": "/home/ashu/StudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
+                    "file": "/home/ashu/AndroidStudioProjects/OCRDemo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
